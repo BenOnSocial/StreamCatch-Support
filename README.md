@@ -2,7 +2,7 @@
 
 This is the official support and feedback hub for the StreamCatch browser extension.
 
-[![StreamCatch on the Chrome Web Store](/images/chrome-web-store.png)](https://chromewebstore.google.com/detail/streamcatch/nffobimglajinjbadbkfabohalogmcan?pli=1)
+[![StreamCatch available in the Chrome Web Store](/images/chrome-web-store.png)](https://chromewebstore.google.com/detail/streamcatch/nffobimglajinjbadbkfabohalogmcan?pli=1)
 
 ---
 
