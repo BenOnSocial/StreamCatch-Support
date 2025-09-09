@@ -2,7 +2,7 @@
 
 This is the official support and feedback hub for the StreamCatch browser extension.
 
-[![StreamCatch available in the Chrome Web Store](/images/chrome-web-store.png)](https://chromewebstore.google.com/detail/streamcatch/nffobimglajinjbadbkfabohalogmcan?pli=1)
+[![StreamCatch available in the Chrome Web Store](/images/chrome-web-store.png)](https://chromewebstore.google.com/detail/streamcatch/nffobimglajinjbadbkfabohalogmcan?pli=1)&nbsp;&nbsp;&nbsp;&nbsp;[![StreamCatch available from Mozilla Add-ons](/images/firefox-get-the-addon.webp)](https://addons.mozilla.org/addon/streamcatch/)
 
 ---
 
