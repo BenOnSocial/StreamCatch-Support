@@ -8,7 +8,7 @@ This is the official support and feedback hub for the StreamCatch browser extens
 
 ## Reporting a Bug
 
-If you've found a bug or the extension isn't working on a specific site, please **[open a new issue](https://github.com/YourUsername/StreamCatch-Support/issues/new/choose)**.
+If you've found a bug or the extension isn't working on a specific site, please **[open a new issue](https://github.com/BenOnSocial/StreamCatch-Support/issues/new/choose)**.
 
 Please be as descriptive as possible and include:
 
@@ -18,7 +18,7 @@ Please be as descriptive as possible and include:
 
 ## Suggesting a Feature or Asking a Question
 
-Have a great idea for a new feature? Have a general question? Please **[start a new discussion](https://github.com/YourUsername/StreamCatch-Support/discussions/new/choose)**.
+Have a great idea for a new feature? Have a general question? Please **[start a new discussion](https://github.com/BenOnSocial/StreamCatch-Support/discussions/new/choose)**.
 
 ---
 
